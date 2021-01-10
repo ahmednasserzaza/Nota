@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نوتا</string>
+    <string name="Title">العنوان</string>
+    <string name="Description">الوصف</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="add">إضافة</string>
+    <string name="edited_successfully">تم التعديل بنجاح</string>
+    <string name="added_successfully">تم إضافة نوتة جديدة</string>
+    <string name="note_deleted">تم الحذف</string>
+</resources>
